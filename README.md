@@ -1,0 +1,2 @@
+# swaywm-config
+Sway config
