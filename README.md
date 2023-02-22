@@ -2,4 +2,4 @@
 Sway config
 
 
-<img src=./screenshot.png">
+<img src="screenshot.png">
