@@ -1,2 +1,2 @@
-# swaywm-config
+# dotfiles
 Sway config
