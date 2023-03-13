@@ -10,7 +10,7 @@
 
 <img src="screenshot.png">
 
-Software/Theme
+🛠️ Software/Theme
 
 |Software/Theme|Name|
 | - | :--: |
