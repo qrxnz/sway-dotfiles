@@ -9,3 +9,33 @@
 </div>
 
 <img src="screenshot.png">
+
+Packages/Themes
+
+|Package/Theme|Name|
+| - | :--: |
+|**WM**|[sway](https://github.com/swaywm/sway)|
+|**Bar**|[waybar](https://github.com/Alexays/Waybar)|
+|**Terminal**|[kitty](https://github.com/kovidgoyal/kitty)|
+|**App Launcher**|wofi|
+|**Shell**|[fish](https://github.com/fish-shell/fish-shell)|
+|**Text Editor**|[neovim](https://github.com/neovim/neovim)|
+|[**Wallpapers**](https://github.com/qrxnz/wallpaper)|[swaybg](https://github.com/swaywm/swaybg)|
+|**GTK Theme**|[Catppuccin](https://github.com/catppuccin/gtk)|
+|**Icons**|[Papirus Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)|
+|**Fonts**|[Nerd fonts](https://github.com/ryanoasis/nerd-fonts)|
+|**Clipboard**|[wl-clipboard](https://github.com/bugaevc/wl-clipboard)|
+
+Fish Shell 🐠 Plugins:
+
+- [fzf.fish](https://github.com/PatrickF1/fzf.fish)
+
+- [catppuccin](https://github.com/catppuccin/fish)
+
+- [puffer-fish](https://github.com/nickeb96/puffer-fish.git)
+
+- [replay.fish](https://github.com/jorgebucaran/replay.fish)
+
+- [sponge](https://github.com/meaningful-ooo/sponge.git)
+
+- [virtualfish](https://github.com/justinmayer/virtualfish)
