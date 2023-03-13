@@ -10,9 +10,9 @@
 
 <img src="screenshot.png">
 
-Packages/Themes
+Software/Theme
 
-|Package/Theme|Name|
+|Software/Theme|Name|
 | - | :--: |
 |**WM**|[sway](https://github.com/swaywm/sway)|
 |**Bar**|[waybar](https://github.com/Alexays/Waybar)|
